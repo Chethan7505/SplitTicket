@@ -1,0 +1,13 @@
+# Ignore virtual environments
+.venv/
+venv/
+
+# Ignore system files
+__pycache__/
+*.pyc
+
+# Ignore Streamlit temporary files
+.streamlit/
+
+# Ignore other local files
+.DS_Store

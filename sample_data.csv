@@ -1,0 +1,8 @@
+Train,From,To,Available_Seats
+Train101,A,B,20
+Train101,B,C,0
+Train101,C,D,5
+Train101,D,E,10
+Train102,A,C,0
+Train102,B,D,15
+Train102,D,E,5
